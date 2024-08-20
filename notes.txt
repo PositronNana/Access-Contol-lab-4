@@ -1,0 +1,10 @@
+Lab 4 : User role can be modified from the user profile
+
+Goal: Acces admin panel and delete the user carlos 
+
+cred : wiener:peter
+
+Steps to script
+1. login as the user wiener
+2.change the roleid to 2
+3. As the admin delete the user Carlos
